@@ -1,2 +1,0 @@
-Usando DIVs
-estilos css
