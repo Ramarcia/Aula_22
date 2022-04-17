@@ -1,2 +1,2 @@
-Usanndo DIVs
+Usando DIVs
 estilos css
